@@ -1,0 +1,19 @@
+{
+  "name": "github_scrapper",
+  "version": "1.0.0",
+  "description": "Scraps top repos of the topics from https://github.com/topics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishavJAY/github_scrapper.git"
+  },
+  "author": "Rishav Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishavJAY/github_scrapper/issues"
+  },
+  "homepage": "https://github.com/rishavJAY/github_scrapper#readme"
+}
